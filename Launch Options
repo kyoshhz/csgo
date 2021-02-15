@@ -1,0 +1,1 @@
+-tickrate 128 -novid -nojoy -language English -refresh 144 -noforcemaccel -noforcemspd -noforcemparms -nod3d9ex +exec kyo.cfg
