@@ -1,2 +1,2 @@
 # csgo
-kyoshhz's csgo cfg
+kyoshhz's All csgo cfg
